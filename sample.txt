@@ -1,2 +1,2 @@
 Hello Git World..
-One  is kind of number.
+One Hello Word
