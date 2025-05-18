@@ -1,4 +1,3 @@
 Hello Git World..
 One Hello World
 You are the smartest Guy ever.
-This takes lot of efforts
