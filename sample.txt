@@ -1,3 +1,9 @@
 Hello Git World..
+<<<<<<< HEAD
 One Hello Word
 This from B1 branch
+=======
+One Hello World
+You are the smartest Guy ever.
+revert is done
+>>>>>>> 88d06d66154e065abd59761bbed602b11da9cc62
