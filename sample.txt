@@ -1,4 +1,1 @@
-Hello Git World..
-One Hello World
-You are the smartest Guy ever.
-revert is done
+Hello Git World.. New Git
