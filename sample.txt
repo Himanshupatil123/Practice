@@ -1,1 +1,4 @@
 Hello Git World..
+This is Sample.txt file 
+trying to write on same line..
+Generating conflicts...
