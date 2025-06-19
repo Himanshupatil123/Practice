@@ -1,2 +1,6 @@
 This is Demo File
 main file
+This is Demo File.........  Hello world
+main file
+Main Demo With Second Commit.......
+Conflicts resolved by merge.....
